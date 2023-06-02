@@ -6,7 +6,7 @@ We were tasked with developing a database and a Java application to interface wi
 
 1. https://www.linkedin.com/in/frank-bafford-61b531231
 ## Launch
-Run from Main.java in the source directory. The application requires the user to input their MySQL username and password to connect to the database. 
+Compile and run from Main.java in the source directory. The application requires the user to input their MySQL username and password to connect to the database. 
 
 ## Screenshots
 ![PFAPicture1](https://github.com/AaronMBias/PFA-Employee-Organizer/assets/107329823/a0290057-90fe-4876-b5e6-9687575a0a3e)
